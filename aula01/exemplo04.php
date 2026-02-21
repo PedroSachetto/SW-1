@@ -1,7 +1,7 @@
 <?php
  //OPERADORES ARITMÉTICO
  $a = 1;
- $b = 2;
+ $b = 5;
 
  $resultado = $a % $b;
 
@@ -9,3 +9,4 @@
 
 
 ?>
+
